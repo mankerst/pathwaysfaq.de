@@ -1,6 +1,23 @@
 # pathwaysfaq.de
 
+A project to be of support for german speaking toastmasters in providing a reference to the Toastmasters International educational program-
+
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+
+uses Illustrations from https://undraw.co/illustrations
+
+       <section>
+              <div className="container">
+                  <div className="row">
+                      <div className={"col col--12"}>
+                          Du möchtest einen Gastartikel schreiben?
+
+                          Kein Problem, nimm gerne
+                          Kontakt auf (bitte nur relevanter Content)
+                      </div>
+                  </div>
+              </div>
+          </section>
 
 ### Installation
 

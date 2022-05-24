@@ -5,6 +5,7 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import styles from './index.module.css';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
+import PathwayFullList from "../components/Pathways";
 
 export default function Lernpfade() {
     const {siteConfig} = useDocusaurusContext();

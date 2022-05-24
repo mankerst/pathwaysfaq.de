@@ -10,13 +10,13 @@ Manuel Kerstin <br />
 Hünenborgstr. 24 <br />
 48431 Rheine <br />
 
-✉️ info@pathwaysfaq.de
+Kontakt: ✉️ info@pathwaysfaq.de
 
 Für diese Seite ist Manuel Kerstin verantwortlich.
 
 Für weiterleitende Links und Meinungen von Usern bin ich nicht verantwortlich, auch wenn ich mir größte Mühe gebe, diese zu prüfen.
 
-> Sollte etwas auf dieser Seite Sie verletzen, so teilen Sie mir dies bitte mit, damit ich es ändern kann. Vielen Dank!
+> Sollte etwas auf dieser Seite Sie verletzen, so teilen Sie mir dies bitte mit damit ich es ändern kann. Vielen Dank!
 
 # Datenschutz
 
