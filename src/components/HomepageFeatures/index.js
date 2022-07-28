@@ -67,7 +67,7 @@ export default function HomepageFeatures() {
               <div className="container">
                   <div className="row">
                       <div className={"col col--12"}>
-                          Du möchtest einen Gastartikel schreiben?
+                          Du möchtest einen Gastartikel schreiben? <br />
 
                           Kein Problem, nimm gerne
                           Kontakt auf (bitte nur relevanter Content)
