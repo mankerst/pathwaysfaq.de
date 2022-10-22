@@ -54,6 +54,10 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      metadata: [
+          {name: 'keywords', content: 'cooking, blog'},
+          {name: 'generator', content: 'm'}
+      ],
       tableOfContents: {
         minHeadingLevel: 2,
         maxHeadingLevel: 5,
@@ -71,11 +75,11 @@ const config = {
             position: 'left',
             label: 'Projekte',
           },
-          {
-            to: '/lernpfade',
-            position: 'left',
-            label: 'Lernpfade',
-          },
+          // {
+          //   to: '/docs/pfade',
+          //   position: 'left',
+          //   label: 'Lernpfade',
+          // },
           {to: '/blog', label: 'Blog', position: 'left'},
 
         ],

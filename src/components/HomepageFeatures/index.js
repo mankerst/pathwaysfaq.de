@@ -7,7 +7,7 @@ import {Redirect} from "@docusaurus/router";
 const FeatureList = [
   {
     title: 'Redeprojekte',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/undraw_things_to_say.svg').default,
     description: (
       <>
         Docusaurus was designed from the ground up to be easily installed and
@@ -40,6 +40,7 @@ const FeatureList = [
 function Feature({Svg, title, description}) {
   return (
     <div className={clsx('col col--4')}>
+        <a href={'docs/intro'}>
       <div className="text--center">
         <Svg className={styles.featureSvg} role="img" />
       </div>
@@ -47,6 +48,7 @@ function Feature({Svg, title, description}) {
         <h3>{title}</h3>
         <p>{description}</p>
       </div>
+        </a>
     </div>
   );
 }
