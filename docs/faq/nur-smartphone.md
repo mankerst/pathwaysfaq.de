@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+xxxsidebar_position: 2
 ---
 
 # Ich habe nur ein Smartphone - Kann ich damit in Pathways arbeiten?

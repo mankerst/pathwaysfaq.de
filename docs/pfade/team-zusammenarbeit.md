@@ -11,8 +11,9 @@ Jedes Projekt trägt zum Aufbau von Fähigkeiten für zwischenmenschliche Kommun
 **Dieser Lernpfad mündet in ein Projekt, das sich auf die Anwendung Ihrer Führungsfähigkeiten konzentriert.**
 
 # Level 1
-123
+
 [Eisbrecher](/docs/projekte/eisbrecher)
+
 # Level 2
 123
 # Level 3

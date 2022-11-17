@@ -9,16 +9,11 @@ const siteTitle = 'pathwaysfaq.de';
 const config = {
   title:  siteTitle,
   tagline: 'Ein Projekt, das Pathways für alle deutschsprachigen Toastmasters zugänglicher macht.',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://pathwaysfaq.de',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -71,15 +66,15 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'pathways/intro',
             position: 'left',
             label: 'Projekte',
           },
-          // {
-          //   to: '/docs/pfade',
-          //   position: 'left',
-          //   label: 'Lernpfade',
-          // },
+          {
+            to: 'docs/category/pfade',
+            position: 'left',
+            label: 'Lernpfade',
+           },
           {to: '/blog', label: 'Blog', position: 'left'},
 
         ],
@@ -92,7 +87,7 @@ const config = {
             items: [
               {
                 label: 'Tutorial',
-                to: '/docs/intro',
+                to: '/docs/pathways/intro',
               },
             ],
           },
@@ -114,7 +109,7 @@ const config = {
             ],
           },
           {
-            title: 'More',
+            title: 'Mehr',
             items: [
               {
                 label: 'Blog',
