@@ -1,2 +1,2 @@
 npm run build
-surge build myctar.surge.sh
+surge build pathwaysfaq.surge.sh
