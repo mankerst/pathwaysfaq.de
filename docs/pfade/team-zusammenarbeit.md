@@ -27,3 +27,10 @@ Quelle: https://www.toastmasters.org/pathways-overview/pathways-team-collaborati
 # Level 4
 123
 # Level 5
+
+
+<details>
+    <summary>Details</summary>
+    Something small enough to escape casual notice.
+</details>
+
