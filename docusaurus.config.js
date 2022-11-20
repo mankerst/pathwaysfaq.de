@@ -83,11 +83,19 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Leitfaden',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Einstieg',
                 to: '/docs/pathways/intro',
+              },
+              {
+                label: 'Pfade',
+                to: '/docs/category/pfade',
+              },
+              {
+                label: 'Projekte',
+                to: '/docs/category/projekte',
               },
             ],
           },
@@ -114,6 +122,10 @@ const config = {
               {
                 label: 'Blog',
                 to: '/blog',
+              },
+              {
+                label: 'Kontakt',
+                to: '/kontakt'
               },
               {
                 label: 'Impressum',
