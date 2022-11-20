@@ -1,10 +1,12 @@
 ---
 sidebar_position: 2
+
 title: Aktives Zuhören
-tag: stufe-2
+
 tags:
-- Demo
-- Getting started
+- Level-2
+- zuhören
+- Stegreifreden
 ---
 
 *Active Listening*
@@ -13,7 +15,7 @@ Dieses Projekt umfasst den Unterschied zwischen Hören und Zuhören sowie Schrit
 
 **Sinn:** Der Sinn dieses Projektes besteht darin, Ihre Fähigkeit zu demonstrieren, anderen zuhören zu können.
 
-**Übersicht:** Üben Sie bei einem Clubtreffen die Funktion des Topicsmasters aus. Kommentieren Sie als Topicsmaster
+**Übersicht:** Üben Sie bei einem Clubtreffen die Funktion des Stegreifredenmoderators aus. Kommentieren Sie als Topicsmaster
 die Table Topics Reden, um Ihre Fähigkeiten als aktiver Zuhörer zu demonstrieren.
 
 Beispielsweise könnten Sie
