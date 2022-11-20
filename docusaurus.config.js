@@ -46,6 +46,16 @@ const config = {
     ],
   ],
 
+  plugins: [
+    [
+      require.resolve("@cmfcmf/docusaurus-search-local"),
+      {
+        indexPages: true,
+        language: 'de'
+      },
+    ],
+  ],
+
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
@@ -71,7 +81,7 @@ const config = {
             label: 'Projekte',
           },
           {
-            to: 'docs/category/pfade',
+            to: 'docs/category/lernpfade',
             position: 'left',
             label: 'Lernpfade',
            },
@@ -90,8 +100,8 @@ const config = {
                 to: '/docs/pathways/intro',
               },
               {
-                label: 'Pfade',
-                to: '/docs/category/pfade',
+                label: 'Lernpfade',
+                to: '/docs/category/Lernpfade',
               },
               {
                 label: 'Projekte',

@@ -2,6 +2,7 @@ import React from 'react';
 import clsx from 'clsx';
 import styles from './styles.module.css';
 import {Redirect} from "@docusaurus/router";
+import Link from "@docusaurus/Link";
 
 
 
@@ -10,6 +11,7 @@ import {Redirect} from "@docusaurus/router";
 const FeatureList = [
   {
     title: 'Redeprojekte',
+      link: '/docs/category/projekte',
     Svg: require('@site/static/img/undraw_things_to_say.svg').default,
     description: (
       <>
@@ -19,6 +21,7 @@ const FeatureList = [
   },
   {
     title: 'Lernpfade',
+      link: '/docs/category/lernpfade',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
@@ -28,6 +31,7 @@ const FeatureList = [
   },
   {
     title: 'Blog',
+      link: '/blog',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
@@ -37,10 +41,11 @@ const FeatureList = [
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({Svg, title, link, description}) {
   return (
     <div className={clsx('col col--4')}>
-        <a href={'docs/pathways/intro'}>
+        <Link to={link}>
+
       <div className="text--center">
         <Svg className={styles.featureSvg} role="img" />
       </div>
@@ -48,7 +53,7 @@ function Feature({Svg, title, description}) {
         <h3>{title}</h3>
         <p>{description}</p>
       </div>
-        </a>
+        </Link>
     </div>
   );
 }

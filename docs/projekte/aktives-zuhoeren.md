@@ -2,6 +2,9 @@
 sidebar_position: 2
 title: Aktives Zuhören
 tag: stufe-2
+tags:
+- Demo
+- Getting started
 ---
 
 *Active Listening*
