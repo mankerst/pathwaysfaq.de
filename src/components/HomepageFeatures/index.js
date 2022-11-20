@@ -22,7 +22,7 @@ const FeatureList = [
   {
     title: 'Lernpfade',
       link: '/docs/category/lernpfade',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/undraw_conference_speaker_re_1rna.svg').default,
     description: (
       <>
 
@@ -32,7 +32,7 @@ const FeatureList = [
   {
     title: 'Blog',
       link: '/blog',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('@site/static/img/undraw_blogging_re_kl0d.svg').default,
     description: (
       <>
 
